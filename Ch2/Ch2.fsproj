@@ -53,6 +53,7 @@
     <Compile Include="SayingHello.fs" />
     <Compile Include="PrintingQuotes.fs" />
     <Compile Include="MadLib.fs" />
+    <Compile Include="SimpleMath.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
   <PropertyGroup>
