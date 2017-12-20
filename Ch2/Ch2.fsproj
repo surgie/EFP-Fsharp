@@ -51,6 +51,8 @@
     <None Include="App.config" />
     <Compile Include="CountingCharacters.fs" />
     <Compile Include="SayingHello.fs" />
+    <Compile Include="PrintingQuotes.fs" />
+    <Compile Include="MadLib.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
   <PropertyGroup>
